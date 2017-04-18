@@ -167,7 +167,7 @@ void NOKIA_clearbuffer(void)
 
 /*--------------------------------------------------------------------------------------------------
   Name         :  NOKIA_update
-  Description  :  transfers the local copy to the display
+  Description  :  transfers the local framebuffer to the display
   Argument(s)  :  None.
   Return value :  None.
 --------------------------------------------------------------------------------------------------*/
